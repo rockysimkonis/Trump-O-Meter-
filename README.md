@@ -1,4 +1,6 @@
-I in no way support any political party. During the elections we thought of a way to play on the current situation.
+This was a sitarical project done with friend Brad Lindgren as part of the beautiful and meaningful project. 
+
+We in no way support any political party. During the elections we thought of a way to play on the current situation.
 
 This app is built on Sinatra which is a DSL for quickly creating web applications in Ruby.
 
